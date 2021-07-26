@@ -21,7 +21,7 @@
   "gridUnits": "m",
   "minimumCoreVersion": "0.7.6",
   "compatibleCoreVersion": "0.7.9",
-  "url": "https://github.com/ramon/fvtt-thewitcher",
+  "url": "https://github.com/El1xio/foundryvtt_thewitchertrpg",
   "manifest": "https://github.com/El1xio/foundryvtt_thewitchertrpg/blob/main/src/system.json",
   "download": "",
   "license": "LICENSE"
