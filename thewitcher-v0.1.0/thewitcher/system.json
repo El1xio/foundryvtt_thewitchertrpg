@@ -23,6 +23,6 @@
   "compatibleCoreVersion": "0.7.9",
   "url": "https://github.com/ramon/fvtt-thewitcher",
   "manifest": "https://github.com/El1xio/foundryvtt_thewitchertrpg/blob/main/thewitcher-v0.1.0/thewitcher/system.json",
-  "download": "",
+  "download": "https://github.com/El1xio/foundryvtt_thewitchertrpg/archive/refs/tags/0.1.zip",
   "license": "LICENSE"
 }
